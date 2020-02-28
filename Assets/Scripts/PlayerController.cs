@@ -98,9 +98,15 @@ public class PlayerController : MonoBehaviour
             }
 
         }
-    } 
-    
+    }
 
+
+    public void LifeManagement() { 
+    
+    }
+    public void Destination() { 
+    
+    }
 
 
 }
