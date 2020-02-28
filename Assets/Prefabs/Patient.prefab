@@ -94,7 +94,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  stayTime: 2
+  stayTime1: 1
+  stayTime2: 2
+  stayTime3: 3
 --- !u!50 &427455569897791306
 Rigidbody2D:
   serializedVersion: 4
