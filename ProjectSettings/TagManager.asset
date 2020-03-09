@@ -8,6 +8,7 @@ TagManager:
   - Counter1
   - Counter2
   - Counter3
+  - Seat
   layers:
   - Default
   - TransparentFX
@@ -42,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1923799703
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

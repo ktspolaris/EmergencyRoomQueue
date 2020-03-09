@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/QueueTest.unity
+- path: Assets/Scenes/LobbyTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
